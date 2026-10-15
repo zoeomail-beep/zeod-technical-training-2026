@@ -6,7 +6,7 @@
 
 I'm a Sydney-based digital professional with a background in marketing, technology and digital systems.
 
-I began formal technical studies at an accredited educational institution in Sydney, Australia, in July 2026. My expected qualification completion year is 2028.
+I began my technical studies in July 2026, with expected qualification completion in 2028.
 
 My interests include cybersecurity, investigative research, network systems and the practical application of technology to understand how things work.
 
