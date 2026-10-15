@@ -23,7 +23,7 @@ This repository documents my learning through practical exercises, scripts, tech
 It includes both structured study activities and independent experimentation.
 
 Progress
-Commenced: October 2026
+Commenced: July 2026
 Expected qualification completion: 2028
 Location: Sydney, Australia
 An evolving record of technical learning, experimentation and applied research.
