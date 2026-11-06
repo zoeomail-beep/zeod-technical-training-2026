@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+Mac_File_Audit_*/
+Mac_File_Audit_*.zip
+*.log
